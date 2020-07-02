@@ -21,7 +21,7 @@ import stbz "github.com/writethesky/stbz-sdk-golang"
 
 3. 配置密钥
 ```golang
-config := NewConfig("AccessKey", "SecretKey")
+config := stbz.NewConfig("AccessKey", "SecretKey")
 SetConfig(config)
 ```
 

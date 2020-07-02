@@ -1,4 +1,4 @@
-module stbz
+module github.com/writethesky/stbz-sdk-golang
 
 go 1.14
 
